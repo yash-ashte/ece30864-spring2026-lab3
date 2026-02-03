@@ -1,0 +1,6 @@
+1- What are some Pros and Cons of Agile development (vs non-Agile)?
+Answer:
+    Pros:
+        - Agile is highly flexibe and can easily adapt to changes in requirements, design and scope
+        - Afile typically includes continuous delivery which means that working software is delivered to the customer regularly
+        
