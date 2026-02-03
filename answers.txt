@@ -14,4 +14,15 @@ Answer:
     Product Owner:
         A product owner is a role in an agile development who is responsible for the output or the final product ensures that it is up to date in terms of priorities with no backlog and has the items which are demanded in the current vision. The product owner represents the business and is accountable for collaborating with the customers to define what features will be in the product release.
 
-
+3- What are the 3 types of meetings that happen during a sprint cycle?
+Answer:
+    Sprint Planning:
+        -Defines the sprint goal and the value to be delivered.
+        -Selects backlog items and breaking them down into actionable tasks.
+    Daily Stand-up:
+        -What was accomplished yesterday and what will be done today.
+        -Highlighting any impediments or blockers hindering progress. 
+    Sprint Review & Retrospective:
+        -Collecting feedback on the product to inform the backlog.
+        -Analyzing what went wrong/right regarding people, relationships, and tools.
+        -Creating a plan for improvements to implement in the next sprint
