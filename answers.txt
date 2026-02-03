@@ -26,3 +26,14 @@ Answer:
         -Collecting feedback on the product to inform the backlog.
         -Analyzing what went wrong/right regarding people, relationships, and tools.
         -Creating a plan for improvements to implement in the next sprint
+
+4- Differentiate between Epic, Story, Bug and Task issue types in JIRA
+Answer:
+    Epic:
+        A big user story that needs to be broken down. Epics group together bugs, stories, and tasks to show the progress of a larger initiative. In agile development, epics usually represent a significant deliverable, such as a new feature or experience in the software your team develops.
+    Story:
+        A user story is the smallest unit of work that needs to be done.
+    Bug:
+        A bug is a problem which impairs or prevents the functions of a product.
+    Task:
+        A task represents work that needs to be done.
