@@ -2,5 +2,8 @@
 Answer:
     Pros:
         - Agile is highly flexibe and can easily adapt to changes in requirements, design and scope
-        - Afile typically includes continuous delivery which means that working software is delivered to the customer regularly
-        
+        - Agile typically includes continuous delivery which means that working software is delivered to the customer regularly
+    Cons:
+        - Agile Development relies heavily on customer feedback and continuous iteration, which can make it difficult to predict project outcomes, timelines, and budgets
+        - Agile development is heavily dependent on the inputs of the customer. If the customer has ambiguity in his vision of the outcome, it is highly likely that the project to get off track.
+
