@@ -7,3 +7,11 @@ Answer:
         - Agile Development relies heavily on customer feedback and continuous iteration, which can make it difficult to predict project outcomes, timelines, and budgets
         - Agile development is heavily dependent on the inputs of the customer. If the customer has ambiguity in his vision of the outcome, it is highly likely that the project to get off track.
 
+2- Explain the role and responsibilities of the Scrum Master vs the Product owner
+Answer:
+    Scrum Master:
+        Scrum master is the leader for the agile development teams and allows the team to self-organize. It manages the process of information exchange between the team members and takes necessary steps accordingly owing to agile principles. They protect the team from distraction and interruptions and are the main link between the project team and the organization.
+    Product Owner:
+        A product owner is a role in an agile development who is responsible for the output or the final product ensures that it is up to date in terms of priorities with no backlog and has the items which are demanded in the current vision. The product owner represents the business and is accountable for collaborating with the customers to define what features will be in the product release.
+
+
